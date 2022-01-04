@@ -31,7 +31,7 @@
 1. Leave the campground cleaner than you found it. Avoid leaving commented-out code, debug statements, unused imports, etc.
 1. Use clean code to express yourself instead of comments. The proper use of comments is to compensate for our failure to express ourself in code. If you need to add a comment, check if you can refactor it with better names or if you could restructure things in a way where [each piece screams its intention](https://blog.cleancoder.com/uncle-bob/2011/09/30/Screaming-Architecture.html) by itself. ([Clean Code](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf), Chapter 4)
 1. Choose a single name per concept and name each concept in a single way.
-1. Write small functions, make each function do one thing well.
+1. Write small functions, make each function do one thing well. ([Clean Code](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf), Chapter 3)
 1. Write code with low coupling and high cohesion.
 1. Practice consistency, choose a single way to do something and stick to it throughout the entire project.
 1. DevOps go first, avoid using single environments, manual deployments and hardcoded configurations.
