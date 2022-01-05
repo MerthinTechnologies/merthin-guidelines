@@ -8,7 +8,7 @@
 1. Use intention-revealing names. Choosing good names takes time but saves more than it takes. This applies not only to code but to any referenceable abstraction in your workflows. ([Clean Code](https://enos.itcollege.ee/~jpoial/oop/naited/Clean%20Code.pdf), Chapter 2)
 1. Automate everything that needs to be automated in advance. Avoid doing things manually over and over again.
 1. Don't commit with goals you can't deliver.
-1. Take full ownership of your responsibilities.
+1. Practice extreme ownership. It's ok to ask for help but you're solely responsible for your results.
 1. Solve one task at a time.
 
 ## Communication
